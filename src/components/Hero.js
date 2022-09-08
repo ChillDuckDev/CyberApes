@@ -10,7 +10,7 @@ function Hero() {
             <NavBar />
             <div className="caption">
             <p className='text-center' style={{ color: "#FFFFFF", fontSize: "50px" }}>Mint Your <p></p>Cyberpunk Apes AI</p>
-           <center> <img src={image1} className="mint-img2" alt="" /></center>
+           <center> <img src={image1} className="mint-img" alt="" /></center>
            <p></p>
                 <div className="caption-inner">
                     <a href="/mint-page">
