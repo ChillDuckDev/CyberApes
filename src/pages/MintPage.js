@@ -149,7 +149,7 @@ function MintPage() {
                                     <p></p>
                                     <p className="lead" style={{ marginBottom: "30px" }}>1,000 Cyberpunk Apes AI of all 1/1 legendaries that are of limited supply. Made with love for you to appreciate the artwork of AI.
                                     <p></p>
-                                    <b>You can mint one for free and one for .0077ETH</b></p>
+                                    <b>You can mint one for free. Then .0077ETH per each</b></p>
                                     <div className="form-group" >
                                         <div className="d-flex justify-content-center">
                                             <button type="button"
